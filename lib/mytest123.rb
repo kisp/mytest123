@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require 'mytest123/version'
-require 'mytest123/account'
+require 'account'
 
 module Mytest123
   class Error < StandardError; end
