@@ -7,4 +7,3 @@ RSpec.describe Account do
     expect(subject.total_charge).to eq(19.5)
   end
 end
-
